@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640297033 source:d:\gasser\problem llllinkedlist\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdlib.h>
+

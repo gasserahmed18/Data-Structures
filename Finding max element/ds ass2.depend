@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638633935 source:d:\gasser\ds ass2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
